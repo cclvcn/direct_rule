@@ -1,8 +1,12 @@
 name 
 XYZ_CAT
+
 //
+
 outbound
 🕳ℹ️🚀 节点选择|🎈 自动选择🏷ℹ️^(?!.*(?:官网|剩余|流量|套餐|免费|订阅|到期时间|全球直连|GB|Expire Date|Traffic|ExpireDate|CAT)).*🕳ℹ️流量多🏷ℹ️XYZ🕳ℹ️流量少🏷ℹ️CAT🕳ℹ️流量少-USA🏷ℹ️CAT.*(🇺🇸|US|United States|美国|美)🕳ℹ️流量多-USA🏷ℹ️XYZ.*(🇺🇸|US|United States|美国|美)🕳ℹ️流量少-HK🏷ℹ️CAT.*(🇭🇰|HK|hk|香港|港|HongKong)🕳ℹ️流量多-HK🏷ℹ️XYZ.*(🇭🇰|HK|hk|香港|港|HongKong)🕳ℹ️流量少-JP🏷ℹ️CAT.*(🇯🇵|JP|jp|日本|日|Japan)🕳ℹ️流量多-JP🏷ℹ️XYZ.*(🇯🇵|JP|jp|日本|Japan)🕳ℹ️流量少-SG🏷ℹ️CAT.*(🇸🇬|SG|sg|新加坡|狮城|Singapore)🕳ℹ️流量多-SG🏷ℹ️XYZ.*(🇸🇬|SG|sg|新加坡|狮城|Singapore)🕳ℹ️🎓 谷歌学术🏷ℹ️^(?=.*CAT)(?!.*(?:🇸🇬|SG|sg|新加坡|狮城|Singapore|🇯🇵|JP|jp|日本|Japan|HK|hk|香港|港|HongKong|🇺🇸|US|United States|美国|美)).*
+
 //
+
 type 
 组合订阅
